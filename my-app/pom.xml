@@ -8,6 +8,7 @@
 
   <name>my-app</name>
   <url>https://github.com/LorenzoBettini/maven-site-github-example</url>
+  <description>An example showing how to publish a Maven site to GitHub pages.</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
